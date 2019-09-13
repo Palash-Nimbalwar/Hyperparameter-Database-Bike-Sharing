@@ -1,0 +1,5 @@
+,nfolds,ntrees,class_sampling_factors,fold_column,balance_classes,model_id,runtime
+actual,5,47,,,False,XRT_1_AutoML_20190419_015759,1850
+actual,5,50,,,False,XRT_1_AutoML_20190419_030035,1850
+actual,5,42,,,False,XRT_1_AutoML_20190419_022821,1850
+actual,5,3,,,False,XRT_1_AutoML_20190419_001144,1850

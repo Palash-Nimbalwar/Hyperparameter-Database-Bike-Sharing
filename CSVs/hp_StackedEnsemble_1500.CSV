@@ -1,0 +1,3 @@
+,metalearner_nfolds,seed,keep_levelone_frame,metalearner_fold_column,validation_frame,training_frame,model_id,runtime
+actual,5,-2485755133014928111,True,,,automl_training_hour.hex,StackedEnsemble_AllModels_AutoML_20190418_165441,1500
+actual,5,-6291687678483932288,True,,,automl_training_hour.hex,StackedEnsemble_BestOfFamily_AutoML_20190418_165441,1500

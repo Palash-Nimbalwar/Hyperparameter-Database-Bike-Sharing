@@ -1,0 +1,9 @@
+,nfolds,balance_classes,rate,loss,validation_frame,training_frame,model_id,runtime
+actual,5,False,0.005,Automatic,,automl_training_hour4.hex,DeepLearning_1_AutoML_20190419_022821,1850
+actual,5,False,0.005,Automatic,,automl_training_hour3.hex,DeepLearning_1_AutoML_20190419_015759,1850
+actual,5,False,0.005,Automatic,,automl_training_hour4.hex,DeepLearning_grid_1_AutoML_20190419_022821_model_1,1850
+actual,5,False,0.005,Automatic,,automl_training_hour6.hex,DeepLearning_1_AutoML_20190419_030035,1850
+actual,5,False,0.005,Automatic,,automl_training_hour2.hex,DeepLearning_1_AutoML_20190419_001144,1850
+actual,5,False,0.005,Automatic,,automl_training_hour6.hex,DeepLearning_grid_1_AutoML_20190419_030035_model_1,1850
+actual,5,False,0.005,Automatic,,automl_training_hour6.hex,DeepLearning_grid_1_AutoML_20190419_030035_model_2,1850
+actual,5,False,0.005,Automatic,,automl_training_hour6.hex,DeepLearning_grid_1_AutoML_20190419_030035_model_3,1850

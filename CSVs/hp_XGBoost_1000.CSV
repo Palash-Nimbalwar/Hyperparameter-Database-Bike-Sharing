@@ -1,0 +1,13 @@
+,nfolds,ntrees,max_depth,max_leaves,booster,reg_alpha,validation_frame,training_frame,model_id,runtime
+actual,5,154,5,0,gbtree,0,,automl_training_hour.hex,XGBoost_1_AutoML_20190418_165441,1000
+actual,5,147,5,0,gbtree,0,,automl_training_hour.hex,XGBoost_1_AutoML_20190418_170819,1000
+actual,5,147,5,0,gbtree,0,,automl_training_hour.hex,XGBoost_3_AutoML_20190418_170819,1000
+actual,5,298,5,0,gbtree,0,,automl_training_hour2.hex,XGBoost_2_AutoML_20190419_001144,1000
+actual,5,147,5,0,gbtree,0,,automl_training_hour.hex,XGBoost_2_AutoML_20190418_170819,1000
+actual,5,83,5,0,gbtree,0,,automl_training_hour1.hex,XGBoost_3_AutoML_20190418_233434,1000
+actual,5,83,5,0,gbtree,0,,automl_training_hour1.hex,XGBoost_1_AutoML_20190418_233434,1000
+actual,5,298,5,0,gbtree,0,,automl_training_hour2.hex,XGBoost_1_AutoML_20190419_001144,1000
+actual,5,83,5,0,gbtree,0,,automl_training_hour1.hex,XGBoost_2_AutoML_20190418_233434,1000
+actual,5,154,5,0,gbtree,0,,automl_training_hour.hex,XGBoost_3_AutoML_20190418_165441,1000
+actual,5,154,5,0,gbtree,0,,automl_training_hour.hex,XGBoost_2_AutoML_20190418_165441,1000
+actual,5,298,5,0,gbtree,0,,automl_training_hour2.hex,XGBoost_3_AutoML_20190419_001144,1000

@@ -1,0 +1,7 @@
+,nfolds,ntrees,max_depth,min_rows,learn_rate,validation_frame,training_frame,model_id,runtime
+actual,5,126,15,100,0.1,,automl_training_hour2.hex,GBM_3_AutoML_20190419_001144,1000
+actual,5,126,15,100,0.1,,automl_training_hour2.hex,GBM_2_AutoML_20190419_001144,1000
+actual,5,126,15,100,0.1,,automl_training_hour2.hex,GBM_5_AutoML_20190419_001144,1000
+actual,5,126,15,100,0.1,,automl_training_hour2.hex,GBM_1_AutoML_20190419_001144,1000
+actual,5,3,15,100,0.1,,automl_training_hour.hex,GBM_1_AutoML_20190418_170819,1000
+actual,5,126,15,100,0.1,,automl_training_hour2.hex,GBM_4_AutoML_20190419_001144,1000

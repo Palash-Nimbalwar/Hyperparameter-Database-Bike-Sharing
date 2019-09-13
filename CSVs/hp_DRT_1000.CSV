@@ -1,0 +1,2 @@
+,validation_frame,training_frame,nfolds,ntrees,max_depth,max_runtime_secs,model_id,runtime
+actual,,automl_training_hour.hex,5,5,20,0,DRF_1_AutoML_20190418_165441,1000

@@ -1,0 +1,15 @@
+,nfolds,ntrees,max_depth,min_rows,learn_rate,validation_frame,training_frame,model_id,runtime
+actual,5,126,15,100,0.1,,automl_training_hour2.hex,GBM_3_AutoML_20190419_001144,1350
+actual,5,221,15,100,0.1,,automl_training_hour3.hex,GBM_4_AutoML_20190419_015759,1350
+actual,5,221,15,100,0.1,,automl_training_hour3.hex,GBM_5_AutoML_20190419_015759,1350
+actual,5,126,15,100,0.1,,automl_training_hour2.hex,GBM_2_AutoML_20190419_001144,1350
+actual,5,126,15,100,0.1,,automl_training_hour2.hex,GBM_1_AutoML_20190419_001144,1350
+actual,5,221,15,100,0.1,,automl_training_hour3.hex,GBM_3_AutoML_20190419_015759,1350
+actual,5,221,15,100,0.1,,automl_training_hour3.hex,GBM_2_AutoML_20190419_015759,1350
+actual,5,126,15,100,0.1,,automl_training_hour2.hex,GBM_5_AutoML_20190419_001144,1350
+actual,5,130,3,10,0.05,,automl_training_hour3.hex,GBM_grid_1_AutoML_20190419_015759_model_1,1350
+actual,5,8,5,15,0.5,,automl_training_hour3.hex,GBM_grid_1_AutoML_20190419_015759_model_2,1350
+actual,5,1,4,30,0.5,,automl_training_hour3.hex,GBM_grid_1_AutoML_20190419_015759_model_3,1350
+actual,5,3,15,100,0.1,,automl_training_hour.hex,GBM_1_AutoML_20190418_170819,1350
+actual,5,221,15,100,0.1,,automl_training_hour3.hex,GBM_1_AutoML_20190419_015759,1350
+actual,5,126,15,100,0.1,,automl_training_hour2.hex,GBM_4_AutoML_20190419_001144,1350
